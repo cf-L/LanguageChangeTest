@@ -1,0 +1,12 @@
+
+/* Class = "UITabBarItem"; title = "个人中心"; ObjectID = "ORX-UW-sgb"; */
+"ORX-UW-sgb.title" = "个人中心";
+
+/* Class = "UITabBarItem"; title = "首页"; ObjectID = "Oqo-FQ-EQJ"; */
+"Oqo-FQ-EQJ.title" = "首页";
+
+/* Class = "UIButton"; normalTitle = "切换语言"; ObjectID = "Vuw-Jk-4Sm"; */
+"Vuw-Jk-4Sm.normalTitle" = "切换语言";
+
+/* Class = "UILabel"; text = "个人"; ObjectID = "fRo-n5-0yV"; */
+"fRo-n5-0yV.text" = "个人";

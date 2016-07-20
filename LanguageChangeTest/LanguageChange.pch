@@ -1,0 +1,14 @@
+//
+//  LanguageChange.pch
+//  LanguageChangeTest
+//
+//  Created by flowdev on 16/7/20.
+//  Copyright © 2016年 com.Flow. All rights reserved.
+//
+
+#ifndef LanguageChange_pch
+#define LanguageChange_pch
+
+#import "Global.h"
+
+#endif 
